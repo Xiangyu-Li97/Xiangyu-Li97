@@ -27,9 +27,17 @@ I am a **PhD candidate in Neuroscience** at Central South University, with a pas
 
 <div align="center">
 
-![Xiangyu's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Xiangyu-Li97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Xiangyu-Li97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Xiangyu-Li97&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img alt="Xiangyu's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Xiangyu-Li97&show_icons=true&theme=default&hide_border=true&count_private=true" />
+</picture>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xiangyu-Li97&layout=compact&theme=tokyonight&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xiangyu-Li97&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xiangyu-Li97&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Xiangyu-Li97&layout=compact&theme=default&hide_border=true" />
+</picture>
 
 </div>
 
@@ -80,7 +88,11 @@ Automated analysis tool for miniature excitatory/inhibitory postsynaptic current
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xiangyu-Li97&theme=tokyo-night&hide_border=true&area=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Xiangyu-Li97&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Xiangyu-Li97&theme=react&hide_border=true&area=true" />
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiangyu-Li97&theme=react&hide_border=true&area=true" />
+</picture>
 
 </div>
 

@@ -14,7 +14,7 @@
 
 ### 👋 Hi there, I'm Xiangyu Li
 
-I am a **PhD candidate in Neuroscience** at Central South University, with a passion for bridging the gap between wet-lab experiments and computational analysis. My research focuses on the neural mechanisms of neurodevelopmental disorders, utilizing electrophysiology, microscopy, and behavioral analysis. I am also an enthusiast of Python and MATLAB, developing tools for automated data analysis and scientific research.
+I am a **PhD in Neuroscience** at Central South University, with a passion for bridging the gap between wet-lab experiments and computational analysis. My research focuses on the neural mechanisms of neurodevelopmental disorders, utilizing electrophysiology, microscopy, and behavioral analysis. I am also an enthusiast of Python and MATLAB, developing tools for automated data analysis and scientific research.
 
 - 🔭 I'm currently working on elucidating the role of **Necdin** in **Prader-Willi Syndrome**
 - 🌱 I'm currently learning more about **deep learning applications in neuroscience**

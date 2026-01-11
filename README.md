@@ -19,7 +19,7 @@ I am a **PhD candidate in Neuroscience** at Central South University, with a pas
 - 🔭 I'm currently working on elucidating the role of **Necdin** in **Prader-Willi Syndrome**
 - 🌱 I'm currently learning more about **deep learning applications in neuroscience**
 - 👯 I'm looking to collaborate on projects related to **bioinformatics** and **computational neuroscience**
-- 📫 How to reach me: [li_xiangyu@csu.edu.cn](mailto:li_xiangyu@csu.edu.cn)
+- 📫 How to reach me: [li_xiangyu@csu.edu.cn](mailto:xiangyuli997@gmail.com)
 
 ---
 
